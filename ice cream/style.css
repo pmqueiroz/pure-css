@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+.text{
+    text-align: center;
+    position: relative;
+}
+
+.center{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: #FED550;
+    z-index: -1;
+}
+
+.head{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #F982BF;
+    top: 30%;
+    z-index: 1;
+}
+
+.head-outline{
+    width: 195px;
+    height: 195px;
+    border-radius: 50%;
+    background-color: #FF98CC;
+    top: 28.6%;
+    z-index: 0;
+
+}
+.head-reflex{
+    width: 30px;
+    height: 60px;
+    border-radius: 75%;
+    background-color: #FF98CC;
+    top: 20%;
+    left: 53.2%;
+    z-index: 2;
+    transform: rotate(-39deg);
+}
+
+.body{
+    width: 200px;
+    height: 220px;
+    background-color: #F982BF;
+    top: 47%;
+    z-index: 1;
+    border-radius: 0 0 15% 15%;
+}
+.Leye{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #FF2995;
+    z-index: 2;
+    top: 50%;
+    left: 46.5%;
+}
+.Reye{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #FF2995;
+    z-index: 2;
+    top: 50%;
+    left: 53.5%;
+}
+
+.Leye-shine{
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    z-index: 3;
+    top: 49.6%;
+    left: 46.5%;
+}
+
+.Reye-shine{
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    z-index: 3;
+    top: 49.6%;top: 49.6%;
+    left: 53.5%;
+}
+
+.mouth-right{
+    width: 20px;
+    height: 20px;
+    border-radius: 0 23% 70% 0;
+    z-index: 2;
+    top: 54%;
+    left: 51.5%;
+    background-color: #FF2995;
+    
+}
+
+.mouth-left{
+    width: 20px;
+    height: 20px;
+    border-radius: 23% 0 0 70%;
+    z-index: 2;
+    top: 54%;
+    left: 48.5%;
+    background-color: #FF2995;
+}
+.mouth{
+    width: 20px;
+    height: 20px;
+    z-index: 2;
+    top: 54%;
+    background-color: #FF2995;
+}
+
+.drooling{
+    width: 5px;
+    height: 20px;
+    z-index: 3;
+    top: 57%;
+    left: 51%;
+    background-color: lightblue;
+}
+
+.stick{
+    border-top: 11px solid #DB9E74;
+    width: 40px;
+    height: 47px;
+    background-color: #ECAA7D;
+    top: 68%;
+}
+.stick-radius{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ECAA7D;
+    top: 72%;
+}
