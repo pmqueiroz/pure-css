@@ -29,7 +29,7 @@
     height: 200px;
     border-radius: 50%;
     background-color: #F982BF;
-    top: 30%;
+    top: 196.5px;
     z-index: 1;
 }
 
@@ -38,7 +38,7 @@
     height: 195px;
     border-radius: 50%;
     background-color: #FF98CC;
-    top: 28.6%;
+    top: 187.33px;
     z-index: 0;
 
 }
@@ -47,8 +47,8 @@
     height: 60px;
     border-radius: 75%;
     background-color: #FF98CC;
-    top: 20%;
-    left: 53.2%;
+    top: 131px;
+    left: 686.812px;
     z-index: 2;
     transform: rotate(-39deg);
 }
@@ -57,7 +57,7 @@
     width: 200px;
     height: 220px;
     background-color: #F982BF;
-    top: 47%;
+    top: 307.85px;
     z-index: 1;
     border-radius: 0 0 15% 15%;
 }
@@ -67,8 +67,8 @@
     border-radius: 50%;
     background-color: #FF2995;
     z-index: 2;
-    top: 50%;
-    left: 46.5%;
+    top: 327.5px;
+    left: 600.315px;
 }
 .Reye{
     width: 15px;
@@ -76,8 +76,8 @@
     border-radius: 50%;
     background-color: #FF2995;
     z-index: 2;
-    top: 50%;
-    left: 53.5%;
+    top: 327.5px;
+    left: 690.685px;
 }
 
 .Leye-shine{
@@ -86,8 +86,8 @@
     border-radius: 50%;
     background-color: #ffffff;
     z-index: 3;
-    top: 49.6%;
-    left: 46.5%;
+    top: 324.88px;
+    left: 600.315px;
 }
 
 .Reye-shine{
@@ -96,8 +96,8 @@
     border-radius: 50%;
     background-color: #FFFFFF;
     z-index: 3;
-    top: 49.6%;top: 49.6%;
-    left: 53.5%;
+    top: 324.88px;
+    left: 690.685px;
 }
 
 .mouth-right{
@@ -105,7 +105,7 @@
     height: 20px;
     border-radius: 0 23% 70% 0;
     z-index: 2;
-    top: 54%;
+    top: 353.7px;
     left: 51.5%;
     background-color: #FF2995;
     
@@ -116,7 +116,7 @@
     height: 20px;
     border-radius: 23% 0 0 70%;
     z-index: 2;
-    top: 54%;
+    top: 353.7px;
     left: 48.5%;
     background-color: #FF2995;
 }
@@ -124,7 +124,7 @@
     width: 20px;
     height: 20px;
     z-index: 2;
-    top: 54%;
+    top: 353.7px;
     background-color: #FF2995;
 }
 
@@ -132,8 +132,8 @@
     width: 5px;
     height: 20px;
     z-index: 3;
-    top: 57%;
-    left: 51%;
+    top: 373.35px;
+    left: 658.41px;
     background-color: lightblue;
 }
 
@@ -142,12 +142,12 @@
     width: 40px;
     height: 47px;
     background-color: #ECAA7D;
-    top: 68%;
+    top: 445.4px;
 }
 .stick-radius{
     width: 40px;
     height: 40px;
     border-radius: 50%;
     background-color: #ECAA7D;
-    top: 72%;
+    top: 471.6px;
 }
