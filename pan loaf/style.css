@@ -5,6 +5,7 @@ body {
    flex-direction: column;
    font: 500 1.2rem 'Poppins';
    overflow: hidden;
+   background: #a0c4ff;
 }
 
 #container {
